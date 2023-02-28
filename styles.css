@@ -8,3 +8,12 @@ h1 {
 body{
     color:rgb(98, 0, 128);
 }
+
+.box{
+    height: 100px;
+    width: 10%;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid palevioletred;
+    background-color: pink;
+}
